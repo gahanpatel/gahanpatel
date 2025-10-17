@@ -3,8 +3,6 @@
 
 - 📫 How to reach me **pate.gah@northeastern.edu**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1xECND5yclsiOM2A9mSR5dOJvEqRzdzra7yj-c_HR59w/edit?tab=t.0](https://docs.google.com/document/d/1xECND5yclsiOM2A9mSR5dOJvEqRzdzra7yj-c_HR59w/edit?tab=t.0)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
