@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Gahan Patel</h1>
 <h3 align="center">I'm passionate about leveraging technology to solve real-world problems while building bridges between diverse communities. Whether coding applications, conducting research, or coordinating events, I approach every opportunity with curiosity and collaboration.</h3>
 
+- 📫 How to reach me **pate.gah@northeastern.edu**
+
+- 📄 Know about my experiences [https://docs.google.com/document/d/1xECND5yclsiOM2A9mSR5dOJvEqRzdzra7yj-c_HR59w/edit?tab=t.0](https://docs.google.com/document/d/1xECND5yclsiOM2A9mSR5dOJvEqRzdzra7yj-c_HR59w/edit?tab=t.0)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
